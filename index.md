@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Test-HHQC/quantum-walk/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+$$ a^2 + b^2 $$
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
