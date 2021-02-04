@@ -1,2 +1,6 @@
 theme: jekyll-theme-leap-day
 markdown: kramdown
+
+mkdocs.yml
+docs/
+    index.md
